@@ -1,5 +1,9 @@
 # @carbonenginejs/runtime-resource
 
+> **Retired donor.** Maintained source now lives in
+> `@carbonenginejs/runtime/resource` under `runtime/src/resource`. This checkout
+> is historical evidence only; do not install or publish it.
+
 CarbonEngineJS resource lifecycle, cache, format selection, source, and object
 loading contracts — the GPU-free resource layer.
 

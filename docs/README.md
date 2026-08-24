@@ -1,5 +1,9 @@
 # Package documentation
 
+> **Historical donor documentation.** Current resource documentation is in
+> `runtime/docs/resource` and current source is exported by
+> `@carbonenginejs/runtime/resource`.
+
 Status: Evolving  
 Scope: `@carbonenginejs/runtime-resource`  
 Audience: Users and integrators  
